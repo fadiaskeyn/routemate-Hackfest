@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141798440263",
+    "project_id": "routemate-f4e6f",
+    "storage_bucket": "routemate-f4e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141798440263:android:6e5c344019e46e7735e062",
+        "android_client_info": {
+          "package_name": "com.example.routemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDhPaKhKvcI8z2Qq03mgU2soHfln8o7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
