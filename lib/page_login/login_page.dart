@@ -45,6 +45,11 @@ class LoginScreen extends StatelessWidget {
                 ),
                 reusabletextfield("Password...", Icons.lock_outline, true,
                     _passwordtextController),
+                SizedBox(
+                  height: 20,
+                ),
+                signsignup(context, true, () {}),
+                signsignupgoogle(context, true, () {})
               ],
             ),
           ),
@@ -53,3 +58,10 @@ class LoginScreen extends StatelessWidget {
     );
   }
 }
+
+// Row signup() {
+//   return Row(
+//     MainAxisAlignment: MainAxisAlignment.center,
+//     children: [const Text("Tidak Punya akun?")],
+//   );
+// }
